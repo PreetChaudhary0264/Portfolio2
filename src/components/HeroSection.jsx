@@ -40,7 +40,7 @@ const HeroSection = () => {
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 justify-center items-center mb-20">
-                        <a href="https://drive.google.com/file/d/11elzVAz6bpzf3GQ78cEztXS3tq0d6U8-/view?usp=sharing" target='_blank' className="neo-btn text-xl">
+                        <a href="https://drive.google.com/file/d/11kiB41TWEAsYPF9fmGEq_qERr_3KrCFR/view?usp=sharing" target='_blank' className="neo-btn text-xl">
                             VIEW RESUME
                         </a>
                         <a href="#projects" className="px-6 py-3 bg-white text-black font-bold border-3 border-black shadow-neo transition-all duration-200 hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-neo-hover active:translate-x-[5px] active:translate-y-[5px] active:shadow-none text-xl">
