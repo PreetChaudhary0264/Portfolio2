@@ -15,7 +15,7 @@ const ProjectSection = () => {
             description: "An AI code-review agent that automatically posts intelligent review comments directly on GitHub pull requests. ",
             image: CodeReviewAI,
             tags: ["React JS", "Langchain", "Github Rest Api", "Gemini AI","Redis","Background Workers"],
-            demoUrl: "https://revai-1.netlify.app/",
+            demoUrl: "https://revai-1.netlify.app/wake",
             githubUrl: "https://github.com/PreetChaudhary0264/RevAI",
         },
         {
@@ -54,30 +54,9 @@ const ProjectSection = () => {
                 "Generates unique QR codes for pets to enable quick identification and safe recovery if they’re lost.",
             image: mypet,
             tags: ["React", "Node.js", "react-pdf","Express.js","MongoDB"],
-            demoUrl: "https://mypetfrontend1.vercel.app",
+            demoUrl: "https://mypet-backend-agly.onrender.com",
             githubUrl: "https://github.com/PreetChaudhary0264/MyPet",
         },
-
-        // {
-        //     id: 5,
-        //     title: "CodeConnect",
-        //     description:
-        //         "Real-time collaborative coding platform to share and execute code instantly.",
-        //     image: codeConnect,
-        //     tags: ["React", "Node.js", "getStream.io"],
-        //     demoUrl: "https://codeconnect.akhilkompally.app",
-        //     githubUrl: "https://github.com/KompallyAkhil/codeconnect",
-        // },
-        // {
-        //     id: 6,
-        //     title: "ChatPDF",
-        //     description:
-        //         "AI-powered tool that allows you to chat with your PDF documents.",
-        //     image: chatPDF,
-        //     tags: ["React.js", "Python", "Gemini API Key"],
-        //     demoUrl: "#",
-        //     githubUrl: "https://github.com/KompallyAkhil/ChatWithPDF",
-        // },
     ];
  
     return (
